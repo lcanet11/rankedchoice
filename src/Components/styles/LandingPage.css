@@ -141,22 +141,20 @@ margin:60px;
 
 .footer{
     background-color:#000080;
-    min-height: 80px;
+    min-height: 150px;
 }
 
 .logo {
-    margin-top:30px;
-    margin-bottom:30px;
+    margin-top:80px;
     margin-left:30px;
     position:relative;
     display:inline-block;
-    float:left;
+    float: left;
 }
 
 .brandbot {
     color:white;
     font-style:bold;
-   
     font-family: 'franklin gothic medium';
     font-size: 16px;
     text-shadow: 2px 2px #000080;
@@ -164,5 +162,33 @@ margin:60px;
     position:relative;
     display:inline-block;
 }
+
+.bottomcenter{
+    color:white;
+    text-align:center;
+    position:relative;
+    display:inline-block;
+    margin-left:450px;
+    font-size:20px;
+    margin-top:30px;
+}
+
+.fb {
+    color:white;
+    position:relative;
+    display:inline-block;
+    float:right;
+    margin-top:60px;
+    margin-right:30px;
+}
+
+.facebook {
+    position:relative;
+    display:inline-block;
+    float:right;
+    transform:scale(.75)
+}
+
+
 
 

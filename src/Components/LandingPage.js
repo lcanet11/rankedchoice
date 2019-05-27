@@ -11,6 +11,7 @@ import icon2 from './images/icon2.png'
 import icon3 from './images/icon3.png'
 import icon4 from './images/icon4.png'
 import icon5 from './images/icon5.png'
+import facebook from './images/facebook.png'
 
 function LandingPage(){
     return (
@@ -148,6 +149,24 @@ function LandingPage(){
           <br/>
            VOTE
         </div>
+        <p className='bottomcenter'>
+            BUILT FOR YOU<br/>
+            as a labor of love by software<br/>
+            engineers, artists and social<br/>
+            entrepreneurs in our<br/>
+            spare time, in New Haven, CT.
+        </p>
+        <div className='fb'>
+            <p>FOLLOW US ON</p>
+            <img 
+              src={facebook}
+              width='100'
+              height='100'
+              className='facebook'
+             alt='facebook logo'
+            />  
+        </div>
+       
         </div>
       </div>
     </div>
