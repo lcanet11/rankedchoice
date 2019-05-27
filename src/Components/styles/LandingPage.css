@@ -1,0 +1,168 @@
+.mainpic {
+position: relative;
+}
+
+.maintext {
+position: absolute;
+top:120px;
+float:center;
+font-size: 60px;
+color:white;
+margin:60px;
+}
+
+.this {
+    float:center;
+    font-size:60px;
+    color:white;
+    margin-left:280px;
+    font-family: Impact;
+}
+
+.democracy {
+    font-size:50px;
+    font-family: Sans-serif;
+    margin-left:20px;
+}
+
+.phrase {
+    margin:180px;
+    font-size: 25px;
+}
+
+.button {
+    background:linear-gradient(to left, white, rgb(146, 5, 5));
+    color:white;
+    min-height: 80px;
+    min-width: 250px;
+    margin-left: 300px;
+    border-radius: 15px;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+    border-color: grey;
+}
+
+/* rgba(230, 224, 224, 0 */
+
+.fuller{
+    position: absolute;
+    float:center;
+    color: #000080;
+    margin: 120px;
+    text-align: center;
+    font-size: xx-large; 
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px lightgrey;
+}
+
+.quote {
+    margin-top: 40px;
+    font-size: x-large;
+}
+
+.video {
+    margin-left: 800px; 
+    margin-top:120px;
+}
+
+.thinborder{
+    border-left: 1px solid rgba(0, 0, 0, 0.3);
+    height:100%;
+}
+
+.icons {
+    position:relative;
+    display:inline-block;
+}
+.h3 {
+    color: #000080;
+    margin-left:5p#000080x;
+}
+
+.icon_par{
+    color: #000080;
+    margin-left:5px;
+    font-size:medium;
+    font-family: 'Segoe Ui';
+}
+
+.icon1format{
+    position:relative;
+    display:inline-block;
+    margin:40px;
+    text-align:center;
+}
+
+.icon2format{
+    position:relative;
+    display:inline-block;
+    margin:60px;
+    text-align:center;
+}
+
+.icon3format{
+    position:relative;
+    display:inline-block;
+    margin:60px;
+    text-align:center;
+}
+
+.icon4format{
+    position:relative;
+    display:inline-block;
+    margin:60px;
+    text-align:center;
+}
+
+.icon5format{
+    position:relative;
+    display:inline-block;
+    margin:60px;
+    text-align:center;
+}
+
+.finalquote{
+    position:relative;
+    background: linear-gradient(to right, purple 0%,  #000080 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    text-align:center;
+    margin-top:120px;
+    font-size:30px;
+    font-weight:bold;
+    font-family:helvetica;
+    letter-spacing: 14px;
+}
+
+.lgpic{
+    position:relative;
+}
+
+.footer{
+    background-color:#000080;
+    min-height: 80px;
+}
+
+.logo {
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:30px;
+    position:relative;
+    display:inline-block;
+    float:left;
+}
+
+.brandbot {
+    color:white;
+    font-style:bold;
+   
+    font-family: 'franklin gothic medium';
+    font-size: 16px;
+    text-shadow: 2px 2px #000080;
+    letter-spacing: 4px;
+    position:relative;
+    display:inline-block;
+}
+
+
